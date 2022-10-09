@@ -1,0 +1,7 @@
+ipython==5.2.2
+notebook==4.3.0
+#numpy==1.11.3
+pymc==2.3.8
+scipy==0.18.1
+matplotlib==2.0.0
+praw==3.6.0
